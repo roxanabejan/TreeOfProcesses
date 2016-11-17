@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  csso2.cpp
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(255): warning C4018: '<': signed/unsigned mismatch
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(264): warning C4018: '<': signed/unsigned mismatch
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\roxana\documents\github\treeofprocesses\csso2\csso2\csso2.cpp(167): warning C4715: 'tip_nod': not all control paths return a value
+  csso2.vcxproj -> C:\Users\Roxana\Documents\GitHub\TreeOfProcesses\csso2\Debug\csso2.exe
+  csso2.vcxproj -> C:\Users\Roxana\Documents\GitHub\TreeOfProcesses\csso2\Debug\csso2.pdb (Full PDB)
